@@ -1,5 +1,4 @@
 import { Component, OnInit, Input, OnChanges } from "@angular/core";
-import { timeStamp } from 'console';
 
 @Component({
   selector: "progress-bar",
